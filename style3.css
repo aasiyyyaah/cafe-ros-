@@ -1,0 +1,78 @@
+.images {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width:auto ;
+    
+
+}
+
+.cake {
+    text-align: unset;
+}
+
+.list{ text-align: left;}
+
+.cake2{
+    text-align: start;
+    width: 10px;
+height: 10px;
+}
+
+body {
+    background-color: lavenderblush ;
+}
+
+h1{
+    font-family:monospace;
+    color: palevioletred;
+    text-align: center;
+    
+}
+
+p, dl, ul{
+    color: rgb(231, 108, 127);
+    font-family: monospace;
+}
+
+.script {
+    
+    color: rgb(231, 108, 127);
+    font-family: monospace;}
+
+
+h2{ 
+    color: lightpink;
+    font-family: monospace;
+    text-align: center;
+}
+
+h3{
+    color: lightpink;
+    font-family: monospace;
+    text-align: center;
+}
+
+
+button:hover{
+    background-color: palevioletred;
+    color: pink;
+}
+
+button {
+   
+    font-family: monospace;
+    background-color:rgb(247, 213, 218);
+    text-align: center;
+    
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+
+
+
