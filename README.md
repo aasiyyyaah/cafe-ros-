@@ -1,2 +1,2 @@
-# cafe-rosé
+# cafe-rose
  https://aasiyyyaah.github.io/cafe-ros-/
